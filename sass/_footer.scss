@@ -2,8 +2,10 @@
     background-color: $color-secondary;
     grid-column: full-start / full-end;
     padding: 8rem;
+    text-align: center;
 
     &__btn {
+        display: inline-block;
         margin-top: 3rem;
         padding: 1rem;
     }
